@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("MTAwMjg2MDE0MDkyMTM2MDQwMA.Gwexa1.vxUeZv24wHGbgP1Vail2geJFpCQmvg_RtPnH24");
+client.login("MTAwMjg2MDE0MDkyMTM2MDQwMA.G3yeQr.76Z34zEhLd7BJ7J_sqI08c98i4KTF8WWTL5ETE");
 ////////////Coded By ANO
